@@ -1,19 +1,20 @@
-# Recipe Finder Web App
+# Explore Space: Daily Image from NASA
 
-A recipe finder web app that helps users discover food recipes based on their search queries. When a user searches for a particular dish, the app provides a list of recipe options, each linked to YouTube for relevant recipe videos. Users can also add their favorite recipes to a favorites list for easy access later.  
+A web app that displays one stunning image of space from NASA’s website every day, along with its description. The app pulls data from NASA's Astronomy Picture of the Day (APOD) API, providing users with a new space-related image daily, complete with details and background information.
 
-Built with **Tailwind CSS** for styling and integrated with the **Edaman API** for fetching recipe data.
+Whether you're fascinated by distant galaxies, nebulae, or the latest space missions, this app brings the wonders of space directly to your browser.
+
+Built with **React** for the front-end, this app fetches the daily image and description from NASA's public API.
 
 ## Features
-- Search for food recipes and view multiple options
-- Click on a recipe to view YouTube videos related to the recipe
-- Save favorite recipes for easy access later
+- Display a new space image each day from NASA’s APOD
+- Show the image's title and a detailed description
+- Automatic daily updates for fresh space content
 
 
 ## Live Demo
-Check out the deployed project: [Recipe Finder Web App](https://recipe-app2024.vercel.app)
+Check out the deployed project: [Daily NASA Space Image Web App](https://nasa-spaceapp.vercel.app)
 
 ## Technologies Used
 - React
-- Tailwind CSS
-- Edaman API for fetching recipes
+- NASA API (Astronomy Picture of the Day - APOD)
