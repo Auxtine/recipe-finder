@@ -1,8 +1,19 @@
-# React + Vite
+# Recipe Finder Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A recipe finder web app that helps users discover food recipes based on their search queries. When a user searches for a particular dish, the app provides a list of recipe options, each linked to YouTube for relevant recipe videos. Users can also add their favorite recipes to a favorites list for easy access later.  
 
-Currently, two official plugins are available:
+Built with **Tailwind CSS** for styling and integrated with the **Edaman API** for fetching recipe data.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Search for food recipes and view multiple options
+- Click on a recipe to view YouTube videos related to the recipe
+- Save favorite recipes for easy access later
+
+
+## Live Demo
+Check out the deployed project: [Recipe Finder Web App](https://recipe-app2024.vercel.app)
+
+## Technologies Used
+- React
+- Tailwind CSS
+- Edaman API for fetching recipes
