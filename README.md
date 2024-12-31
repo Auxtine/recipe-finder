@@ -1,19 +1,21 @@
-# Travel App
+# Recipe Finder App
 
-A travel app designed for users who want to explore different destinations. The app provides information on various travel spots, and users can sign up to receive the latest updates and notifications on new destinations and offers. Built with Yarn for efficient package management and fast development.
+A recipe finder web app that helps users discover food recipes based on their search queries. When a user searches for a particular dish, the app provides a list of recipe options, each linked to YouTube for relevant recipe videos. Users can also add their favorite recipes to a favorites list for easy access later.
 
-## Features
+Built with **Tailwind CSS** for styling and integrated with the **Edaman API** for fetching recipe data.
 
-- Explore different travel destinations
-- User sign-up for account management
-- Subscribe for the latest updates on new destinations and offers
+# Main Features
 
+**1.** Search for food recipes and view multiple options.
+**2.** Click on a recipe to view YouTube videos related to the recipe.
+**3.** Save favorite recipes for easy access later.
 
 ## Live Demo
 
-Check out the deployed project: [Travel App](https://travelyarn.vercel.app)
+Check out the deployed project: [Recipe Finder](https://recipe-app2024.vercel.app)
 
 ## Technologies Used
 
 - React
 - Yarn
+- Edaman API
