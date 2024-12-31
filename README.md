@@ -18,3 +18,6 @@ Check out the deployed project: [Recipe Finder](https://recipe-app2024.vercel.ap
 
 - React
 - Yarn
+
+<!-- npm run build
+npm run dev -->
