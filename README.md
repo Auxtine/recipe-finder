@@ -6,9 +6,9 @@ Built with **Tailwind CSS** for styling and integrated with the **Edaman API** f
 
 # Main Features
 
-**1.** Search for food recipes and view multiple options.
-**2.** Click on a recipe to view YouTube videos related to the recipe.
-**3.** Save favorite recipes for easy access later.
+- Search for food recipes and view multiple options.
+- Click on a recipe to view YouTube videos related to the recipe.
+- Save favorite recipes for easy access later.
 
 ## Live Demo
 
